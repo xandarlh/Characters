@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\HelpLone\HelpLone\bin\Debug\HelpLone.exe.config
+C:\Users\alex303a\source\repos\HelpLone\HelpLone\bin\Debug\HelpLone.exe
+C:\Users\alex303a\source\repos\HelpLone\HelpLone\bin\Debug\HelpLone.pdb
+C:\Users\alex303a\source\repos\HelpLone\HelpLone\obj\Debug\HelpLone.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\HelpLone\HelpLone\obj\Debug\HelpLone.exe
+C:\Users\alex303a\source\repos\HelpLone\HelpLone\obj\Debug\HelpLone.pdb
